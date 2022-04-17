@@ -9,7 +9,7 @@
         ushort students;
         ulong costAuto;
         int bankDebt;
-        bool checkpoint;
+        bool passedCheckpoint;
         string name;
         float coordinates;
         double measurements;
